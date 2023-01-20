@@ -1,0 +1,31 @@
+/* ハンバーガーメニューの枠線と影を透明にする */
+.navbar-dark .navbar-toggler{
+    color: rgba(255,255,255, 0);
+    border-color: rgba(212, 108, 228, 0);
+}
+
+/* ヘッダーの固定位置指定による要素隠れ対策 */
+#profile {
+    margin-top: -75px;
+    padding-top: 80px;
+}
+
+#points {
+    margin-top: -75px;
+    padding-top: 80px;
+}
+
+#skills {
+    margin-top: -75px;
+    padding-top: 80px;
+}
+
+#works {
+    margin-top: -75px;
+    padding-top: 80px;
+}
+
+#contact {
+    margin-top: -75px;
+    padding-top: 80px;
+}
